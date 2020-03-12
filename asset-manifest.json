@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jmacro.dev-react/static/css/main.8f2bdf60.chunk.css",
+    "main.js": "/jmacro.dev-react/static/js/main.321a34cd.chunk.js",
+    "main.js.map": "/jmacro.dev-react/static/js/main.321a34cd.chunk.js.map",
+    "runtime-main.js": "/jmacro.dev-react/static/js/runtime-main.777df0d4.js",
+    "runtime-main.js.map": "/jmacro.dev-react/static/js/runtime-main.777df0d4.js.map",
+    "static/js/2.2b683c58.chunk.js": "/jmacro.dev-react/static/js/2.2b683c58.chunk.js",
+    "static/js/2.2b683c58.chunk.js.map": "/jmacro.dev-react/static/js/2.2b683c58.chunk.js.map",
+    "index.html": "/jmacro.dev-react/index.html",
+    "precache-manifest.77ab48df7855db68d385a96191f3ca58.js": "/jmacro.dev-react/precache-manifest.77ab48df7855db68d385a96191f3ca58.js",
+    "service-worker.js": "/jmacro.dev-react/service-worker.js",
+    "static/css/main.8f2bdf60.chunk.css.map": "/jmacro.dev-react/static/css/main.8f2bdf60.chunk.css.map",
+    "static/js/2.2b683c58.chunk.js.LICENSE.txt": "/jmacro.dev-react/static/js/2.2b683c58.chunk.js.LICENSE.txt",
+    "static/media/blogger.png": "/jmacro.dev-react/static/media/blogger.d4b6fc04.png",
+    "static/media/index.css": "/jmacro.dev-react/static/media/what-the-hex-dark.00dc0de3.png",
+    "static/media/phone.png": "/jmacro.dev-react/static/media/phone.0ed7a4be.png",
+    "static/media/read-me.png": "/jmacro.dev-react/static/media/read-me.2791c2ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.777df0d4.js",
+    "static/js/2.2b683c58.chunk.js",
+    "static/css/main.8f2bdf60.chunk.css",
+    "static/js/main.321a34cd.chunk.js"
+  ]
+}
